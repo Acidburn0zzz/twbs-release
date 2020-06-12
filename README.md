@@ -49,3 +49,7 @@ Unless a change is urgent, _Maintenance_ releases are likely to be made with min
 * [@bardiharborow](https://github.com/bardiharborow) – Bardi Harborow
 * [@Johann-S](https://github.com/Johann-S) – Johann Servoire
 * [@xhmikosr](https://github.com/xhmikosr)
+
+### evaluation de tests
+
+* [@Acidburn0zzzz](https://acidburn0zzz.github.io/twbs-release/README.md) - Acidburn0zzz
